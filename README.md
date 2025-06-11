@@ -4,7 +4,7 @@
 
 ## 📌 Short Description / Problem Statement / Purpose
 
-AtliQ Grands, a premium hotel chain, faced declining market share and revenue due to outdated decision-making and lack of real-time data insights. This Power BI project aims to solve this by transforming raw hotel data into an interactive dashboard that supports better revenue management, pricing strategy, and customer satisfaction improvements.
+AtliQ Grands, a fictitious premium hotel chain, faced declining market share and revenue due to outdated decision-making and lack of real-time data insights. This Power BI project aims to solve this by transforming raw hotel data into an interactive dashboard that supports better revenue management, pricing strategy, and customer satisfaction improvements.
 
 ---
 
